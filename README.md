@@ -22,7 +22,7 @@ A Python utility that recursively generates thumbnail images for photos and vide
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/thumbnail_generator.git
+   git clone https://github.com/dnaod/thumbnail_generator.git
    cd thumbnail_generator
    ```
 

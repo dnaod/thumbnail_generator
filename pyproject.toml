@@ -34,6 +34,6 @@ dependencies = [
 thumbnail-generator = "thumbnail_generator:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/thumbnail_generator"
-Repository = "https://github.com/yourusername/thumbnail_generator"
-Issues = "https://github.com/yourusername/thumbnail_generator/issues"
+Homepage = "https://github.com/dnaod/thumbnail_generator"
+Repository = "https://github.com/dnaod/thumbnail_generator"
+Issues = "https://github.com/dnaod/thumbnail_generator/issues"
